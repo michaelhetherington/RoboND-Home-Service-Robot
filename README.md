@@ -1,0 +1,2 @@
+# RoboND-Home-Service-Robot
+Final project of the Udacity Robotics Nanodegree in which a small home service robot is simulated in a Gazebo environment that it must first map by following the walls before then taking instructions to navigate to a target location and then to a second location following success on the first target. This simulates autonomous pick-up and drop-off of an item in the environment.
